@@ -18,7 +18,7 @@ Como Executar
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/jogo-numero-secreto.git
+git clone https://github.com/coliveira1977/Jogo_SSH.git
 
 Abra o arquivo index.html em um navegador.
 
